@@ -53,7 +53,7 @@ Ignite CLI also handles some compilation, runs a local blockchain node, and help
 
 <HighlightBox type="reading">
 
-Want to dedicate some time to dive deeper into installing Ignite CLI? Learn [how to install Ignite CLI in the Ignite CLI Developer Guide](https://docs.ignite.com/guide/install.html).
+Want to dedicate some time to dive deeper into installing Ignite CLI? Learn [how to install Ignite CLI in the Ignite CLI Developer Guide](https://docs.ignite.com/welcome/install).
 
 </HighlightBox>
 
